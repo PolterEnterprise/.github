@@ -28,4 +28,4 @@ Polter Enterprise is dedicated to the open-source community, thriving on the pri
 
 ___
 #### License
-All projects are licensed under the [MIT License](LICENSE.md) unless otherwise specified.
+All projects are licensed under the [GPL License](LICENSE) unless otherwise specified.
