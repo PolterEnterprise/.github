@@ -1,5 +1,5 @@
 ## Polter Enterprise
-Welcome to our official **Polter Enterprise** GitHub organization, committed to multidisciplinary research. Through cutting-edge technology and artificial intelligence, we are pushing boundaries to drive advancements across a diverse spectrum of industries and fields.
+Welcome to our official **Polter Enterprise** GitHub organization, committed to multidisciplinary research. Through cutting-edge science and technology, where we are pushing boundaries to drive advancements across a diverse spectrum of industries and fields.
 
 #### About
 Our mission is to lead the global transition towards intelligent and cutting-edge technological advancements. We are dedicated to developing solutions that address today\'s challenges and proactively anticipate future needs. By upholding standards of excellence and sustainability, we strive to significantly improve efficiency, accuracy, and productivity across diverse sectors.
