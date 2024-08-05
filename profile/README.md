@@ -5,7 +5,7 @@ Welcome to our official **Polter Enterprise** GitHub organization, committed to 
 Our mission is to lead the global transition towards intelligent and cutting-edge technological advancements. We are dedicated to developing solutions that address today\'s challenges and proactively anticipate future needs. By upholding standards of excellence and sustainability, we strive to significantly improve efficiency, accuracy, and productivity across diverse sectors.
 
 #### Innovation Across Multiple Domains
-At the core of Polter Enterprise is a relentless pursuit of innovation. We integrate cutting-edge artificial intelligence technologies with robust scientific research methodologies to drive sector-leading advancements in:
+At the core of Polter Enterprise is a relentless pursuit of innovation. We integrate cutting-edge technologies with robust scientific research methodologies to drive sector-leading advancements in:
 
 - **Environmental Science**: Tackles vital survival challenges by ensuring sustainable management of natural resources and improving the quality of water and air, safeguarding our ecosystem.
 - **Sustainability**: Our commitment extends to developing technologies that enhance ecological balance, foster social equity, and uphold economic viability. We innovate in sustainable resource management and eco-friendly manufacturing, and advance corporate governance along with social responsibility. Integrating sustainability deeply into all our operations, we aim to build a more sustainable future for everyone.
