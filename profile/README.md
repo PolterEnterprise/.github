@@ -38,6 +38,9 @@ Our mission is to lead the global transition towards intelligent and cutting-edg
 - **Robotics**:
   Innovates in robotic technology to create intelligent, autonomous systems capable of performing complex tasks in diverse environments. From industrial automation to advanced surgical robots, our technologies are paving the way for significant advancements in efficiency and capability.
 
+- **Entertainment**:
+  Revolutionises the way people experience leisure by integrating cutting-edge technology with creative storytelling, reshaping the entertainment landscape. From immersive virtual reality to AI-driven content creation, this includes the gaming industry, where we push boundaries with interactive experiences, next-generation graphics, and dynamically adaptive gameplay. Merging technology and creativity, we aim to inspire, engage, and connect all audiences worldwide through accessible, inclusive, and transformative experiences that transcend traditional entertainment.
+
 #### Community and Contributions
 Polter Enterprise is dedicated to the open-source community, thriving on the principle of open innovation. We welcome and encourage contributions from developers, technology enthusiasts, industry professionals, and academic scholars worldwide. If you are interested in collaborating, consider the following:
 
